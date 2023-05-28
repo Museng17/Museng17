@@ -1,7 +1,7 @@
 # Hi there 👋
 <br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-beta-wheat-74.vercel.app/api?username=Mmuseng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Minju's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-beta-wheat-74.vercel.app/api/top-langs/?username=Mmuseng&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-beta-wheat-74.vercel.app/api?username=Museng17&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Minju's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-beta-wheat-74.vercel.app/api/top-langs/?username=Museng17&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
